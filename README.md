@@ -3,8 +3,8 @@ This repo collects leaked prompts of GPTs.
 
 Most of the prompts I collected from [here](https://x.com/dotey/status/1722831122285932592?s=20), some are from GitHub users' pull requests, and some are from using some hacked by me.
 
-
-## Leaked Prompts of GPTs
+will add more soon 
+## Leaked Prompts of GPTs 
 - [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
 - [Istio Guru](./prompts/IstioGuru.md) by Rohit Ghumare
 - [BabyAgi.txt](./prompts/BabyAgi.txt.md) by Nicholas Dobos
